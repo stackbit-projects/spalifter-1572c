@@ -27,7 +27,7 @@ sections:
       title: lorem-ipsum
       content: |
         *
-      align: left
+      align: right
       image_alt: lorem-ipsum
       image_position: left
       actions: []
