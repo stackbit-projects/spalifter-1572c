@@ -23,27 +23,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image:
-      '0': i
-      '1': m
-      '2': a
-      '3': g
-      '4': e
-      '5': s
-      '6': /
-      '7': a
-      '8': q
-      '9': r
-      '10': '-'
-      '11': d
-      '12': r
-      '13': b
-      '14': l
-      '15': .
-      '16': p
-      '17': 'n'
-      '18': g
-      image: images/cool-potato.png
   - type: features_section
     title: Features
     features:
