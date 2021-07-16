@@ -32,6 +32,7 @@ sections:
       image_position: left
       actions: []
       type: feature
+      image: images/incredible-mint.png
   - type: features_section
     title: Features
     features:
