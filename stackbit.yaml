@@ -402,7 +402,8 @@ models:
         name: image
         label: Image
         description: The image of the section
-        models: []
+        models:
+          - feature
       - type: string
         name: image_alt
         label: Image Alt Text
