@@ -398,10 +398,11 @@ models:
           - center
         default: left
         description: The alignment of the text content
-      - type: html
+      - type: model
         name: image
         label: Image
         description: The image of the section
+        models: []
       - type: string
         name: image_alt
         label: Image Alt Text
